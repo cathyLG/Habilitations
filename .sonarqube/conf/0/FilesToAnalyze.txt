@@ -1,0 +1,17 @@
+﻿C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\controleur\Controle.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\connexion\ConnexionBDD.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\dal\AccesDonnees.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\vue\FrmAuthentification.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\vue\FrmAuthentification.Designer.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\modele\Developpeur.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\modele\Profil.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\vue\FrmHabilitations.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\vue\FrmHabilitations.Designer.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\Program.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\Properties\AssemblyInfo.cs
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\Properties\Resources.resx
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\vue\FrmAuthentification.resx
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\vue\FrmHabilitations.resx
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\packages.config
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\Properties\Settings.settings
+C:\Users\Xiaoxiao\source\repos\Habilitations\Habilitations\App.config
